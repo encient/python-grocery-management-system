@@ -1,0 +1,10 @@
+Meat | UK Fish | Salmon | 10.00 | N/A | 13 | 
+Meat | India Pork | Bacon | 45.00 | N/A | 31 | 
+Meat | Malaysia Beef | Flank | 75.00 | N/A | 32 | 
+Fruit | Japan Apple | Fuji | 5.00 | N/A | 34 | 
+Fruit | China Pear | Asian | 3.00 | N/A | 11 | 
+Fruit | NZ Orange | Sunkist | 6.00 | N/A | 8 | 
+Dairy | Goodday Milk | 1 L | 8.00 | 24/11 | 19 | 
+Dairy | Farm Fresh Milk | 1 L | 13.00 | 11/12 | 18 | 
+Dairy | Star Cheese | 10 pcs | 15.00 | 20/12 | 23 | 
+Meat | Australia Mutton | Rack | 54.00 | N/A | 19 | 
