@@ -1,6 +1,3 @@
-# YEO JIA QI
-# TP065449
-
 import time
 # import time for .sleep() built in function
 
