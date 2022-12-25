@@ -1,6 +1,6 @@
 # Python Grocery Management System
 
-A beginner Python project for my university assignment.
+A beginner Python project for my university individual assignment.
 
 It consists of 3 types of users:
 1. Admin
